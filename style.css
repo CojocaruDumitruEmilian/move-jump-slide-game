@@ -1,0 +1,17 @@
+.grid {
+    position :absolute;
+    background-color: chartreuse;
+    height :20px;
+    width:500px;
+    bottom:100px;
+    left:100px;
+}
+
+.square {
+    position : absolute;
+    background-color: darkblue;
+    height : 100px;
+    width:100px;
+    bottom:0px;
+    left:0px;
+}
